@@ -9,13 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Focus Badge" />
-  <br/>
-  <img src="https://shields.io" alt="Learning Badge" />
-  <img src="https://shields.io" alt="Main Badge" />
-</p>
-
-<p align="center">
   <i>"A Stellaron Hunter learning to weave digital stars into reality."</i>
 </p>
 
